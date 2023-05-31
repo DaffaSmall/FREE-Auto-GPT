@@ -14,7 +14,7 @@ For any problem open an ISSUE 🚬, the project is very simple so any help is we
 ![intro](https://user-images.githubusercontent.com/108482353/236516034-737e0ca0-7ccb-4629-affb-aff0fb2b6579.png)
 
 
-By the way, thank you so much for [![Stars](https://img.shields.io/github/stars/IntelligenzaArtificiale/Free-AUTOGPT-with-NO-API?style=social)](https://github.com/IntelligenzaArtificiale/Free-AUTOGPT-with-NO-API/stargazers) and all the support!!
+By the way, thank you so much for [![Stars](https://img.shields.io/github/stars/DaffaSmall/FREE-Auto-GPT?style=social)](https://github.com/DaffaSmall/FREE-Auto-GPT/stargazers) and all the support!!
 
 ## WHY THIS REPOSITORY ? 🤔
 
@@ -465,10 +465,10 @@ while prompt.toLowerCase() != "exit":
 
 # **🤗 Democratize AI 🤗**
 
-[![Star History Chart](https://api.star-history.com/svg?repos=IntelligenzaArtificiale/Free-AUTOGPT-with-NO-API&type=Date)](https://star-history.com/#IntelligenzaArtificiale/Free-AUTOGPT-with-NO-API)
+[![Star History Chart](https://api.star-history.com/svg?repos=IntelligenzaArtificiale/Free-AUTOGPT-with-NO-API&type=Date)](https://star-history.com/#DaffaSmall/FREE-Auto-GPT)
 
 
-By the way, thank you so much for [![Stars](https://img.shields.io/github/stars/IntelligenzaArtificiale/Free-AUTOGPT-with-NO-API?style=social)](https://github.com/IntelligenzaArtificiale/Free-AUTOGPT-with-NO-API/stargazers) and all the support!!
+By the way, thank you so much for [![Stars](https://img.shields.io/github/stars/DaffaSmall/FREE-Auto-GPT?style=social)](https://github.com/DaffaSmall/FREE-Auto-GPT/stargazers) and all the support!!
 
 
 
