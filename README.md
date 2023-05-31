@@ -175,7 +175,7 @@ Now add you Cookie and Token in `.env` file .
 
 
 **Or use Locally :**
-- Dowload the repository [FREE AUTOGPT REPOSITORY](https://github.com/IntelligenzaArtificiale/Free-AUTOGPT-with-NO-API)
+- Dowload the repository [FREE AUTOGPT REPOSITORY](https://github.com/DaffaSmall/FREE-Auto-GPT)
 - install using **Dev Container in VSCode** or `python3 -m pip install -r requirements.txt`
 - insert the **.env file** yours Token
 - if you dont see the **.env file** check "Show hidden file" in your file manger
@@ -205,7 +205,7 @@ https://user-images.githubusercontent.com/108482353/234963635-004adace-36ab-46de
 ⚠️ Abusing this tool is at your own risk
 
 **Or use Locally :**
-- Dowload the repository [FREE AUTOGPT REPOSITORY](https://github.com/IntelligenzaArtificiale/Free-AUTOGPT-with-NO-API)
+- Dowload the repository [FREE AUTOGPT REPOSITORY](https://github.com/DaffaSmall/FREE-Auto-GPT)
 - install using **Dev Container in VSCode** or `python3 -m pip install -r requirements.txt`
 - insert the **.env file** yours Token
 - if you dont see the **.env file** check "Show hidden file" in your file manger
@@ -231,7 +231,7 @@ https://user-images.githubusercontent.com/108482353/234947600-1df35b1f-6505-40f9
 ⚠️ Abusing this tool is at your own risk
 
 **Or use Locally :**
-- Dowload the repository [FREE AUTOGPT REPOSITORY](https://github.com/IntelligenzaArtificiale/Free-AUTOGPT-with-NO-API)
+- Dowload the repository [FREE AUTOGPT REPOSITORY](https://github.com/DaffaSmall/FREE-Auto-GPT)
 - install using **Dev Container in VSCode** or `python3 -m pip install -r requirements.txt`
 - cd OtherAgent/
 - Choose or develop your agent [ csvAgent.py  ;  pythonAgent.py  ; customAgent.py ]
@@ -259,7 +259,7 @@ https://user-images.githubusercontent.com/108482353/235354639-998f0a40-3d2d-4f33
 ⚠️ Abusing this tool is at your own risk
 
 **Or use Locally :**
-- Dowload the repository [FREE AUTOGPT REPOSITORY](https://github.com/IntelligenzaArtificiale/Free-AUTOGPT-with-NO-API)
+- Dowload the repository [FREE AUTOGPT REPOSITORY](https://github.com/DaffaSmall/FREE-Auto-GPT)
 - `python3 -m pip install -r requirements.txt`
 - `streamlit run Camel.py`
 
@@ -465,7 +465,7 @@ while prompt.toLowerCase() != "exit":
 
 # **🤗 Democratize AI 🤗**
 
-[![Star History Chart](https://api.star-history.com/svg?repos=IntelligenzaArtificiale/Free-AUTOGPT-with-NO-API&type=Date)](https://star-history.com/#DaffaSmall/FREE-Auto-GPT)
+[![Star History Chart](https://api.star-history.com/svg?repos=DaffaSmall/FREE-Auto-GPTI&type=Date)](https://star-history.com/#DaffaSmall/FREE-Auto-GPT)
 
 
 By the way, thank you so much for [![Stars](https://img.shields.io/github/stars/DaffaSmall/FREE-Auto-GPT?style=social)](https://github.com/DaffaSmall/FREE-Auto-GPT/stargazers) and all the support!!
